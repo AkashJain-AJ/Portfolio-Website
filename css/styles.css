@@ -157,25 +157,25 @@ p {
 
 .ninty-perc {
   height: inherit;
-  width: 90%;
+  width: 70%;
 }
 
 .mb-blue {
   background-color: #2857a4;
 }
 
-.thirty-perc {
+/* .thirty-perc {
   height: inherit;
   width: 30%;
 }
 
 .mb-red {
   background-color: rgb(255, 0, 0);
-}
+} */
 
 .eighty-perc {
   height: inherit;
-  width: 80%;
+  width: 40%;
 }
 
 .mb-teal {
@@ -184,7 +184,7 @@ p {
 
 .fifty-perc {
   height: inherit;
-  width: 50%;
+  width: 70%;
 }
 
 .mb-green {
